@@ -1,0 +1,1 @@
+Go (or Golang) is an open-source, statically typed programming language developed at Google to improve programming productivity in an era of networked, multi-core machines. Designed for simplicity and efficiency, it combines high-performance compiled execution with easy-to-read syntax, making it ideal for cloud-native development, concurrency, and high-scale systems
