@@ -12,7 +12,6 @@ The goal of the project is to demonstrate:
 - Error handling
 - AI-assisted development workflow
 
----
 
 ## Technology Used
 
@@ -25,7 +24,7 @@ The goal of the project is to demonstrate:
 
 Go is a statically typed, compiled programming language designed for simplicity and performance.
 
----
+
 
 ## Features
 
@@ -42,7 +41,6 @@ go run . calc add 10 5
 Output:
 Result: 15
 
----
 
 ### 2. Word Counter
 
@@ -54,7 +52,6 @@ go run . wordcount "Go is simple and powerful"
 Output:
 Word count: 5
 
----
 
 ### 3. File Reader
 
@@ -64,7 +61,6 @@ Example:
 create a file named test.txt. add som words the run:
 go run . readfile test.txt
 
----
 
 ## System Requirements
 
@@ -72,7 +68,6 @@ go run . readfile test.txt
 - Terminal (PowerShell, Command Prompt, or Bash)
 - VS Code or any text editor
 
----
 
 ## Setup Instructions
 
@@ -83,7 +78,6 @@ go run . readfile test.txt
           
 4. Run the program:
 
----
 
 ## Project Structure
 
@@ -99,7 +93,6 @@ cli-toolkit/
 
 
 
----
 
 ## Error Handling
 
@@ -109,7 +102,6 @@ The program includes:
 - Division by zero protection
 - File reading error handling
 
----
 
 ## Learning Reflection
 
@@ -122,7 +114,6 @@ Prompts were refined iteratively to:
 
 The AI-assisted approach significantly improved development speed and debugging efficiency.
 
----
 
 ## Author
 
