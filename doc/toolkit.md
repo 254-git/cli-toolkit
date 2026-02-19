@@ -83,16 +83,16 @@ Modular function calls
 ## 6. AI Prompt Journal
 
 ### Prompt 1:
-"How do I create a basic CLI program in Go?"
+Act as a patient Go programming instructor teaching a complete beginner. I am a student with no experience in Go and I want to create a very basic CLI program. Please explain step by step how to install Go, create a simple main.go file, and run it in the terminal. Organize your answer into setup, simple code example, and how to run it, and keep the explanation clear and easy to understand.
 ### Response Summary:
-AI explained the use of os.Args and demonstrated a basic example.
+The AI explains how to install Go, create a simple project folder, write a basic main.go file, and run the program from the terminal. It breaks the process into clear steps (setup, code example, and execution), includes a simple working example, and provides beginner-friendly explanations for each part.
 ### Evaluation:
 Helpful for understanding argument parsing, but required refinement to handle errors properly.
 
 ### Prompt 2:
-"Why am I getting 'expected package, found EOF' error in Go?"
+Act as a Go programming instructor. I am new to Go and struggling with compiler errors while building a CLI toolkit. Explain common beginner errors, what they mean, and how to fix them. Structure your response into understanding errors, examples with fixes, and debugging tips.  
 ### Response Summary:
-AI explained that the file was empty or missing package main.
+The AI explains Go compilation and common beginner errors, showing incorrect code alongside corrected versions. It teaches how to read error messages, trace issues, and fix them step by step. It also provides best practices for debugging CLI projects, all in a beginner-friendly, actionable style.
 ### Evaluation:
 This significantly reduced debugging time and clarified Go’s compilation behavior.
 
